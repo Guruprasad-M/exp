@@ -1,0 +1,39 @@
+/* TwoDivs.css */
+
+/* Flex container styling */
+.flex-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  /* Left div styling */
+  .left-div {
+    flex: 1;
+    background-image: url(https://assets.gqindia.com/photos/608c135f6e6a489a62cd254d/master/pass/Apps%20for%20finance%20management.jpg);
+    background-position: center;
+    position: relative;
+    background-color: #3498db; /* Adjust background color as needed */
+  }
+  
+  h1{
+    margin-top: 10%;
+  }
+
+  .right-div p{
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 20%;
+  }
+  
+  button{
+    margin-top: 10%;
+    font-size: large;
+  }
+  
+  /* Right div styling */
+  .right-div {
+    flex: 1;
+
+    background-color: rgb(245, 102, 31); /* Adjust background color as needed */
+  }
+  
