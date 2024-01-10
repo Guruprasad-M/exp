@@ -65,3 +65,33 @@ Before we get started, keep in mind:
 [info] 
 [info] +  Success! Logged into GitHub as Guruprasad-M 
 [info] 
+[debug] [2024-01-10T16:28:55.513Z] >>> [apiv2][query] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key type=owner
+[debug] [2024-01-10T16:28:58.773Z] <<< [apiv2][status] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key 401
+[debug] [2024-01-10T16:28:58.774Z] <<< [apiv2][body] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-01-10T16:29:11.490Z] >>> [apiv2][query] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key type=owner
+[debug] [2024-01-10T16:29:12.903Z] <<< [apiv2][status] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key 401
+[debug] [2024-01-10T16:29:12.904Z] <<< [apiv2][body] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-01-10T16:29:19.598Z] >>> [apiv2][query] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key type=owner
+[debug] [2024-01-10T16:29:20.786Z] <<< [apiv2][status] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key 401
+[debug] [2024-01-10T16:29:20.787Z] <<< [apiv2][body] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-01-10T16:29:22.602Z] >>> [apiv2][query] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key type=owner
+[debug] [2024-01-10T16:29:22.898Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-01-10T16:29:23.144Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-01-10T16:29:23.338Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-01-10T16:29:23.354Z] <<< [apiv2][status] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key 401
+[debug] [2024-01-10T16:29:23.355Z] <<< [apiv2][body] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-01-10T16:29:23.652Z] >>> [apiv2][query] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key type=owner
+[debug] [2024-01-10T16:29:23.666Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2024-01-10T16:29:23.666Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-01-10T16:29:23.918Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2024-01-10T16:29:23.919Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-01-10T16:29:24.075Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2024-01-10T16:29:24.075Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-01-10T16:29:24.576Z] <<< [apiv2][status] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key 401
+[debug] [2024-01-10T16:29:24.576Z] <<< [apiv2][body] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-01-10T16:30:07.748Z] >>> [apiv2][query] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key type=owner
+[debug] [2024-01-10T16:30:08.172Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-01-10T16:30:10.469Z] <<< [apiv2][status] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key 401
+[debug] [2024-01-10T16:30:10.470Z] <<< [apiv2][body] GET https://api.github.com/repos/Guruprasad-M/exp/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2024-01-10T16:30:11.072Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2024-01-10T16:30:11.073Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
