@@ -2,13 +2,20 @@
     max-width: 600px;
     margin: auto;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #f11bea00;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
   
   .container {
     text-align: center;
+    background-color: #cdcebca8;
+     
+
+  }
+  .container:hover{
+    border: #333;
+    box-shadow: 1px 1px 30px 12px #020002a8;
   }
   
   .balance {

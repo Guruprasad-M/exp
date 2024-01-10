@@ -78,7 +78,7 @@ const signUserOut=async()=>{
         </div>
         
         
-        <button className='sign-out-button' onClick={signUserOut}>Sign OUt</button>
+        <button className='sign-out-button' onClick={signUserOut}>Sign out</button>
    
         </div>
     <div className="transactions">
